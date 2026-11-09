@@ -1,0 +1,37 @@
+
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your research,
+  please cite the associated software and data release.
+type: software
+
+title: >-
+  Comparative Immune Genomics and Genomic
+  Organization of Immune-Related Genes
+  in Four Bee Species
+
+authors:
+  - family-names: Kassem
+    given-names: Abdelmajid
+
+repository-code: >-
+  https://github.com/abdelmajidk/bee-immune-comparative-genomics
+
+abstract: >-
+  Research code, computational workflows, and derived
+  datasets supporting comparative analyses of putative
+  immune-related genes in Megachile rotundata,
+  Apis mellifera, Bombus terrestris, and
+  Bombus impatiens. The study includes protein-family
+  classification, orthogroup analysis, genomic
+  distribution, and gene-model evaluation.
+
+keywords:
+  - comparative genomics
+  - insect immunity
+  - Megachile rotundata
+  - orthogroups
+  - genomic organization
+  - bioinformatics
+
+license: NOASSERTION
