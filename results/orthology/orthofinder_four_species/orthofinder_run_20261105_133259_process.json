@@ -1,0 +1,20 @@
+{
+  "pid": 91248,
+  "started_utc": "2026-11-05T18:32:59.693231+00:00",
+  "command": [
+    "/Users/abdelmajidkassem/anaconda3/envs/orthofinder_bees/bin/orthofinder",
+    "-f",
+    "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/data/orthology/representative_proteomes",
+    "-o",
+    "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_bees_run_20261105_133259",
+    "-S",
+    "diamond",
+    "-t",
+    "4",
+    "-a",
+    "2"
+  ],
+  "output_dir": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_bees_run_20261105_133259",
+  "log_file": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_four_species/orthofinder_run_20261105_133259.log",
+  "configuration_file": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_four_species/orthofinder_run_20261105_133259_configuration.json"
+}

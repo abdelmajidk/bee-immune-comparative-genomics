@@ -1,0 +1,12 @@
+ERROR: non-default output directory already exists: 
+[35m/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Lea[0m
+[35mfcutter-Bee/results/orthology/orthofinder_four_species/[0m
+
+
+[1;31mOrthoFinder stopped because of the error above.[0m
+[39;49mIf the message does not say how to fix it, search for it at [0m
+[4;94;49mhttps://github.com/OrthoFinder/OrthoFinder/issues,[0m[39;49m or open an issue there with [0m
+[39;49mthe command you ran and the error.[0m
+
+[33;49mOrthoFinder[0m[39;49m stopped after [0m[1;36;49m0.[0m[39;49m024748s[0m
+
