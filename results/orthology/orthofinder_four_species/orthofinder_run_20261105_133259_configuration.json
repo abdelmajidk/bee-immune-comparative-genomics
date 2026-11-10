@@ -1,0 +1,34 @@
+{
+  "created_utc": "2026-11-05T18:32:59.685675+00:00",
+  "project_root": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee",
+  "input_dir": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/data/orthology/representative_proteomes",
+  "output_dir": "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_bees_run_20261105_133259",
+  "orthofinder_executable": "/Users/abdelmajidkassem/anaconda3/envs/orthofinder_bees/bin/orthofinder",
+  "species_protein_counts": {
+    "Megachile_rotundata": 10674,
+    "Apis_mellifera": 9935,
+    "Bombus_terrestris": 10310,
+    "Bombus_impatiens": 10632
+  },
+  "total_proteins": 41551,
+  "orthofinder_version": "3.2",
+  "sequence_search": "diamond",
+  "search_threads": 4,
+  "analysis_threads": 2,
+  "physical_cpus": 10,
+  "logical_cpus": 10,
+  "physical_memory_gb": 16.0,
+  "command": [
+    "/Users/abdelmajidkassem/anaconda3/envs/orthofinder_bees/bin/orthofinder",
+    "-f",
+    "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/data/orthology/representative_proteomes",
+    "-o",
+    "/Users/abdelmajidkassem/02_FSU_Research_Projects/03_BDSRG_Kassem_Projects/11-Leafcutter-Bee/results/orthology/orthofinder_bees_run_20261105_133259",
+    "-S",
+    "diamond",
+    "-t",
+    "4",
+    "-a",
+    "2"
+  ]
+}
