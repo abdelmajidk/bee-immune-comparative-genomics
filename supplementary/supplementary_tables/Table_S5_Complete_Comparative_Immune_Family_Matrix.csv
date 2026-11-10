@@ -1,0 +1,37 @@
+analysis_family,Megachile_rotundata,Apis_mellifera,Bombus_terrestris,Bombus_impatiens,total_analysis_records,species_with_candidates,Megachile_rotundata_orthogroups,Apis_mellifera_orthogroups,Bombus_terrestris_orthogroups,Bombus_impatiens_orthogroups,total_distinct_orthogroups,Megachile_rotundata_domain_supported,Apis_mellifera_domain_supported,Bombus_terrestris_domain_supported,Bombus_impatiens_domain_supported,total_domain_supported_records
+Serine protease - unspecified,17,15,12,11,55,4,15,12,12,11,20,0,0,0,0,0
+Toll receptor family,6,6,7,8,27,4,5,6,7,8,11,0,0,0,0,0
+Spaetzle family,6,3,7,7,23,4,6,3,7,7,8,0,0,0,0,0
+Serpin / protease inhibitor,3,3,2,3,11,4,3,3,2,3,6,0,0,0,0,0
+Lysozyme,2,3,2,2,9,4,2,2,2,2,2,0,0,0,0,0
+Phenoloxidase,2,2,3,2,9,4,2,2,3,2,3,0,0,0,0,0
+Cactus,1,3,1,1,6,4,1,1,1,1,1,0,0,0,0,0
+Defensin,2,2,1,1,6,4,2,2,1,1,2,0,0,0,0,0
+PGRP,2,2,1,1,6,4,2,2,1,1,3,0,0,0,0,0
+Argonaute-family protein,2,1,1,1,5,4,1,1,1,1,1,2,1,1,1,5
+Hymenoptaecin,1,1,2,1,5,4,1,1,1,1,1,0,0,0,0,0
+Trypsin-like serine-protease homolog (PF00089-supported),0,1,2,2,5,3,0,1,1,1,1,0,1,2,2,5
+Argonaute-2,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+ECSIT,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Hopscotch,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Imd,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Kazal-domain-containing protein (putative protease inhibitor),1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,4
+MyD88,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Pelle,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Serine protease gd-family homolog (PF16030/PF00089-supported),1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,4
+Serpin-family protein (PF00079-supported),1,0,3,0,4,2,1,0,1,0,1,1,0,3,0,4
+Toll-interacting protein,1,1,1,1,4,4,1,1,1,1,1,0,0,0,0,0
+Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,4
+Abaecin,0,1,1,1,3,3,0,1,1,1,1,0,0,0,0,0
+Dicer - unspecified,0,1,1,1,3,3,0,1,1,1,1,0,0,0,0,0
+Apidaecin,1,1,0,0,2,2,1,1,0,0,1,0,0,0,0,0
+"GNBP / beta-1,3-glucan recognition protein family (PF15886-supported)",1,1,0,0,2,2,1,1,0,0,1,1,1,0,0,2
+Relish-like NF-kappa-B family protein (Rel homology/ankyrin architecture supported),1,0,1,0,2,2,1,0,1,0,1,1,0,1,0,2
+Argonaute-3,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Dicer-1,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+Domeless,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Dredd,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+FADD,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Thioester-containing protein,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Tube,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Unresolved annotation,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0

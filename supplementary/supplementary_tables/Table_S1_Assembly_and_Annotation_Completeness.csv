@@ -1,0 +1,5 @@
+species,assembly_sequences,assembly_Mb,N50_Mb,NC_sequences,NC_sequence_Mb,NC_sequence_fraction_pct,NC_genes,NC_protein_coding_genes,top_20_sequence_fraction_pct,total_genes,genes_with_description,informative_descriptions,LOC_symbols,named_gene_symbols,uncharacterized_descriptions,informative_description_pct,named_gene_symbol_pct
+Megachile_rotundata,1818,613.362,5.961,16,302.996,49.4,12389,10500,53.0,10674,10674,7663,6505,4169,3011,71.79,39.06
+Apis_mellifera,177,225.251,13.619,17,220.791,98.02,12259,9883,98.48,9935,500,476,9537,398,24,4.79,4.01
+Bombus_terrestris,249,392.962,14.593,18,290.775,74.0,13024,10209,78.23,10310,25,25,10301,9,0,0.24,0.09
+Bombus_impatiens,5460,246.856,1.399,0,0.0,0.0,0,0,25.45,10632,4,4,10630,2,0,0.04,0.02

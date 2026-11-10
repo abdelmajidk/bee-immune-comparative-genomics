@@ -1,0 +1,5 @@
+species,protein_coding_genes,representative_sequences,output_fasta,selection_method,file_exists,protein_sequences,file_size_mb,path
+Megachile_rotundata,10674,10674,data/orthology/representative_proteomes/Megachile_rotundata.faa,Longest annotated protein isoform,True,10674,6.41,data/orthology/representative_proteomes/Megachile_rotundata.faa
+Apis_mellifera,9935,9935,data/orthology/representative_proteomes/Apis_mellifera.faa,Longest annotated protein isoform,True,9935,5.98,data/orthology/representative_proteomes/Apis_mellifera.faa
+Bombus_terrestris,10310,10310,data/orthology/representative_proteomes/Bombus_terrestris.faa,Longest annotated protein isoform,True,10310,6.21,data/orthology/representative_proteomes/Bombus_terrestris.faa
+Bombus_impatiens,10632,10632,data/orthology/representative_proteomes/Bombus_impatiens.faa,Longest annotated protein isoform,True,10632,6.16,data/orthology/representative_proteomes/Bombus_impatiens.faa

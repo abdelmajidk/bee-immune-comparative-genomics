@@ -1,0 +1,2 @@
+observed_pairs,null_mean,null_ci_low,null_ci_high,p_clustering,p_dispersion,permutations,gap_bp
+7,3.4695,0.0,7.0,0.0579710144927536,0.9795102448775612,2000,20000
