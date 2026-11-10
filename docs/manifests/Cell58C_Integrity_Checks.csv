@@ -1,0 +1,26 @@
+check,status,detail
+Figure S6 active PDF exists,PASS,results/manuscript/figures/supplementary/Figure_S6_OG0000186_Provisional_Genomic_Architecture.pdf
+Figure S6 active PNG exists,PASS,results/manuscript/figures/supplementary/Figure_S6_OG0000186_Provisional_Genomic_Architecture.png
+Figure S6 revision manifest exists,PASS,results/manuscript/manifests/Figure_S6_layout_revision.csv
+Figure S6 revision manifest has one row,PASS,Rows: 1
+Figure S6 revised PDF checksum,PASS,results/manuscript/figures/supplementary/Figure_S6_OG0000186_Provisional_Genomic_Architecture.pdf
+Figure S6 revised PNG checksum,PASS,results/manuscript/figures/supplementary/Figure_S6_OG0000186_Provisional_Genomic_Architecture.png
+Figure S6 scientific data unchanged,PASS,
+Figure S6 caption unchanged,PASS,
+Figure S6 archived original,OPTIONAL ABSENT,Active revised PDF/PNG are authoritative.
+Cell 58B caption provenance exists,PASS,results/manuscript/manifests/Cell58B_Main_Table_Caption_Provenance.csv
+Cell 58B caption provenance has four records,PASS,Rows: 4
+Cell 58B caption identifiers,PASS,
+Table_1 caption checksum,PASS,results/manuscript/captions/Table_1_caption.txt
+Table_1 table checksum,PASS,results/manuscript/tables/main/Table_1_Genome_Assembly_Annotation_Proteomes.csv
+Table_1 source provenance checksum,PASS,results/manuscript/manifests/Table_1_source_provenance.csv
+Table_2 caption checksum,PASS,results/manuscript/captions/Table_2_caption.txt
+Table_2 table checksum,PASS,results/manuscript/tables/main/Table_2_Immune_Candidates_Evidence_and_Domain_Support.csv
+Table_2 source provenance checksum,PASS,results/manuscript/manifests/Table_2_source_provenance.csv
+Table_3 caption checksum,PASS,results/manuscript/captions/Table_3_caption.txt
+Table_3 table checksum,PASS,results/manuscript/tables/main/Table_3_Comparative_Immune_Related_Families.csv
+Table_3 source provenance checksum,PASS,results/manuscript/manifests/Table_3_source_provenance.csv
+Table_4 caption checksum,PASS,results/manuscript/captions/Table_4_caption.txt
+Table_4 table checksum,PASS,results/manuscript/tables/main/Table_4_Orthogroup_Conservation_and_Selection_Gaps.csv
+Table_4 source provenance checksum,PASS,results/manuscript/manifests/Table_4_source_provenance.csv
+All pre-existing manuscript files unchanged,PASS,Protected files: 170

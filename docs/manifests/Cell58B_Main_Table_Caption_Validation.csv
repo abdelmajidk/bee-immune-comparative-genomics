@@ -1,0 +1,29 @@
+table,check,status
+Table_1,Caption file exists,PASS
+Table_1,Caption is nonempty,PASS
+Table_1,Caption begins with table number,PASS
+Table_1,Caption contains explanatory paragraph,PASS
+Table_1,Caption matches approved text,PASS
+Table_1,Source table unchanged,PASS
+Table_1,Source provenance unchanged,PASS
+Table_2,Caption file exists,PASS
+Table_2,Caption is nonempty,PASS
+Table_2,Caption begins with table number,PASS
+Table_2,Caption contains explanatory paragraph,PASS
+Table_2,Caption matches approved text,PASS
+Table_2,Source table unchanged,PASS
+Table_2,Source provenance unchanged,PASS
+Table_3,Caption file exists,PASS
+Table_3,Caption is nonempty,PASS
+Table_3,Caption begins with table number,PASS
+Table_3,Caption contains explanatory paragraph,PASS
+Table_3,Caption matches approved text,PASS
+Table_3,Source table unchanged,PASS
+Table_3,Source provenance unchanged,PASS
+Table_4,Caption file exists,PASS
+Table_4,Caption is nonempty,PASS
+Table_4,Caption begins with table number,PASS
+Table_4,Caption contains explanatory paragraph,PASS
+Table_4,Caption matches approved text,PASS
+Table_4,Source table unchanged,PASS
+Table_4,Source provenance unchanged,PASS

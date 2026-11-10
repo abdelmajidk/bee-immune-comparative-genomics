@@ -1,0 +1,21 @@
+identifier,record_type,path,records,passed,failed,other,status
+Figure_1,Figure checklist,results/manuscript/manifests/Figure_1_validation.csv,6,6.0,0.0,0.0,PASS
+Figure_2,Figure checklist,results/manuscript/manifests/Figure_2_validation.csv,8,8.0,0.0,0.0,PASS
+Figure_3,Figure checklist,results/manuscript/manifests/Figure_3_validation.csv,11,11.0,0.0,0.0,PASS
+Figure_4,Figure checklist,results/manuscript/manifests/Figure_4_validation.csv,10,10.0,0.0,0.0,PASS
+Figure_5,Figure checklist,results/manuscript/manifests/Figure_5_validation.csv,11,11.0,0.0,0.0,PASS
+Figure_6,Figure checklist,results/manuscript/manifests/Figure_6_validation.csv,11,11.0,0.0,0.0,PASS
+Figure_S1,Figure checklist,results/manuscript/manifests/Figure_S1_validation.csv,12,12.0,0.0,0.0,PASS
+Figure_S2,Figure checklist,results/manuscript/manifests/Figure_S2_validation.csv,17,17.0,0.0,0.0,PASS
+Figure_S3,Figure checklist,results/manuscript/manifests/Figure_S3_validation.csv,20,20.0,0.0,0.0,PASS
+Figure_S4,Figure checklist,results/manuscript/manifests/Figure_S4_validation.csv,23,23.0,0.0,0.0,PASS
+Figure_S5,Figure checklist,results/manuscript/manifests/Figure_S5_validation.csv,16,16.0,0.0,0.0,PASS
+Figure_S6,Figure checklist,results/manuscript/manifests/Figure_S6_validation.csv,22,22.0,0.0,0.0,PASS
+Table_5,Table numerical audit,results/manuscript/manifests/Table_5_OG0000186_species_validation.csv,4,,,,DATA SUMMARY
+Table_S4,Table numerical audit,results/manuscript/manifests/Table_S4_evidence_tier_validation.csv,4,,,,DATA SUMMARY
+Table_S6,Table numerical audit,results/manuscript/manifests/Table_S6_species_representation_validation.csv,4,,,,DATA SUMMARY
+Table_S7,Table numerical audit,results/manuscript/manifests/Table_S7_species_gap_validation.csv,5,,,,DATA SUMMARY
+Table_S9,Table numerical audit,results/manuscript/manifests/Table_S9_permutation_validation.csv,1,,,,DATA SUMMARY
+Table_S10,Table numerical audit,results/manuscript/manifests/Table_S10_domain_curation_validation.csv,5,,,,DATA SUMMARY
+Table_S11,Table numerical audit,results/manuscript/manifests/Table_S11_domain_architecture_validation.csv,4,,,,DATA SUMMARY
+Table_S12,Table numerical audit,results/manuscript/manifests/Table_S12_genomic_review_validation.csv,1,,,,DATA SUMMARY

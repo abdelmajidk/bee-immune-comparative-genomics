@@ -1,0 +1,3 @@
+Table S8. Assembly-sequence-level enrichment of annotation-selected immune-related gene candidates.
+
+The table preserves 16 assembly-sequence records and the original enrichment fields: background gene count, candidate count, sequence length, candidate fraction, gene density, candidate density, odds ratio, raw p value, and Benjamini–Hochberg-adjusted q value. Species assignments are not inferred from sequence identifiers. The statistical background and testing procedure should be described using the original analysis methods. Enrichment of computationally selected candidates does not establish experimentally validated immune function.

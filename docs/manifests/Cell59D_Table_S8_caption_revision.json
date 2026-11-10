@@ -1,0 +1,16 @@
+{
+  "cell": "59D",
+  "timestamp_utc": "2026-11-08T17:13:41.161537+00:00",
+  "original_caption_sha256": "bc44cfe9ca97380a886ec8cdc52640c08a3161a52054199fd0c9a2570c5e74ca",
+  "revised_caption_sha256": "58c7222cb49c54b780cd94993d4bcce1a141a6badba2746488ae081362288509",
+  "table_sha256": "4f412274f307f3add50ab5477f1ba5e3bb4df007639f009c1b3a299e2ed96238",
+  "original_candidate_count": 64,
+  "sequence_annotation_count": 105,
+  "background_gene_count": 10500,
+  "analyzed_sequences": 16,
+  "nominal_significant_sequences": 2,
+  "bh_significant_sequences": 0,
+  "minimum_bh_q": 0.07308529613467053,
+  "revision_scope": "Table S8 caption only",
+  "original_caption_backup": "manifests/Cell59D_Table_S8_caption_before_revision.txt"
+}
