@@ -1,0 +1,5 @@
+Species,Assembly sequences (n),Assembly size (Mb),Scaffold N50 (Mb),NC-sequence assembly fraction (%),Annotated protein-coding genes (n),Representative protein sequences (n)
+Megachile_rotundata,1818,613.36,5.96,49.4,10674,10674
+Apis_mellifera,177,225.25,13.62,98.02,9935,9935
+Bombus_terrestris,249,392.96,14.59,74.0,10310,10310
+Bombus_impatiens,5460,246.86,1.4,0.0,10632,10632

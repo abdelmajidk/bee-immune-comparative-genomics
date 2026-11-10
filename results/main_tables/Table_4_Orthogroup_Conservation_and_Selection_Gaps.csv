@@ -1,0 +1,9 @@
+Analysis category,Measure,Count (n),Percentage of 83 orthogroups (%)
+Orthogroup conservation,Immune-associated orthogroups,83,100.0
+Orthogroup conservation,Selected candidates in all four species,32,38.6
+Orthogroup conservation,Full orthogroup membership in all four species,67,80.7
+Candidate-selection gaps,Orthogroups with candidate-selection gaps,41,49.4
+Candidate-selection gaps,Species–orthogroup candidate-selection gaps,91,
+Candidate-selection gaps,Underlying unselected genes,104,
+Copy-number variation,Orthogroups with unequal selected-candidate counts,58,69.9
+Copy-number variation,Orthogroups with unequal full-gene counts,28,33.7

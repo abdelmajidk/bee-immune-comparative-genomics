@@ -1,0 +1,5 @@
+Species,Original annotation-selected candidates (n),Tier 1 (n),Tier 2 (n),Tier 3 (n),Consolidated analysis records (n),Distinct analysis families (n),Domain-supported records (n),Orthogroup-mapped records (n),Unassigned records (n)
+Megachile_rotundata,64,18,28,18,64,31,8,64,0
+Apis_mellifera,57,17,22,18,58,28,6,57,1
+Bombus_terrestris,57,13,26,18,57,26,10,57,0
+Bombus_impatiens,52,11,26,15,52,24,6,52,0

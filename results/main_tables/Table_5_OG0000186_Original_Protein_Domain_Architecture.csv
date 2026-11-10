@@ -1,0 +1,8 @@
+Species,Annotated gene ID,Selected immune candidate,Detected Pfam domains,Domain architecture,Serpin domain,FANCM helicase domains,Annotation review flagged
+Megachile_rotundata,gene-Fancm,No,PF00079;PF00270;PF00271,Composite helicase + serpin,Yes,Yes,Yes
+Apis_mellifera,gene-LOC409579,No,PF00270;PF00271,FANCM-like helicase,No,Yes,No
+Apis_mellifera,gene-LOC726320,Yes,PF00079,Serpin-domain protein,Yes,No,No
+Bombus_terrestris,gene-LOC100643999,No,PF00270;PF00271,FANCM-like helicase,No,Yes,No
+Bombus_terrestris,gene-LOC100644115,No,PF00079,Serpin-domain protein,Yes,No,No
+Bombus_impatiens,gene-LOC100741510,No,PF00079,Serpin-domain protein,Yes,No,No
+Bombus_impatiens,gene-LOC100743989,No,PF00270;PF00271,FANCM-like helicase,No,Yes,No
