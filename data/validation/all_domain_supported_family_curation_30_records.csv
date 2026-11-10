@@ -1,0 +1,31 @@
+species,gene_id,proposed_family,curation_source
+Apis_mellifera,gene-LOC552062,Argonaute-family protein,high_priority_orthogroups_consolidated_curation.csv
+Bombus_impatiens,gene-LOC100748831,Argonaute-family protein,high_priority_orthogroups_consolidated_curation.csv
+Bombus_terrestris,gene-LOC100650374,Argonaute-family protein,high_priority_orthogroups_consolidated_curation.csv
+Megachile_rotundata,gene-AGO1,Argonaute-family protein,high_priority_orthogroups_consolidated_curation.csv
+Megachile_rotundata,gene-LOC100874748,Argonaute-family protein,high_priority_orthogroups_consolidated_curation.csv
+Apis_mellifera,gene-LOC409204,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),high_priority_orthogroups_consolidated_curation.csv
+Bombus_impatiens,gene-LOC100747758,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),high_priority_orthogroups_consolidated_curation.csv
+Bombus_terrestris,gene-LOC100642942,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),high_priority_orthogroups_consolidated_curation.csv
+Megachile_rotundata,gene-LOC100881654,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),high_priority_orthogroups_consolidated_curation.csv
+Apis_mellifera,gene-LOC409949,Kazal-domain-containing protein (putative protease inhibitor),high_priority_orthogroups_consolidated_curation.csv
+Bombus_impatiens,gene-LOC100742292,Kazal-domain-containing protein (putative protease inhibitor),high_priority_orthogroups_consolidated_curation.csv
+Bombus_terrestris,gene-LOC100651059,Kazal-domain-containing protein (putative protease inhibitor),high_priority_orthogroups_consolidated_curation.csv
+Megachile_rotundata,gene-LOC100876526,Kazal-domain-containing protein (putative protease inhibitor),high_priority_orthogroups_consolidated_curation.csv
+Apis_mellifera,gene-LOC550671,Trypsin-like serine-protease homolog (PF00089-supported),OG0000044_domain_supported_curation.csv
+Bombus_impatiens,gene-LOC100741694,Trypsin-like serine-protease homolog (PF00089-supported),OG0000044_domain_supported_curation.csv
+Bombus_impatiens,gene-LOC100743633,Trypsin-like serine-protease homolog (PF00089-supported),OG0000044_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC100642484,Trypsin-like serine-protease homolog (PF00089-supported),OG0000044_domain_supported_curation.csv
+Bombus_terrestris,gene-VSP,Trypsin-like serine-protease homolog (PF00089-supported),OG0000044_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC100652301,Serpin-family protein (PF00079-supported),OG0000055_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC125385891,Serpin-family protein (PF00079-supported),OG0000055_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC125385892,Serpin-family protein (PF00079-supported),OG0000055_domain_supported_curation.csv
+Megachile_rotundata,gene-LOC100874716,Serpin-family protein (PF00079-supported),OG0000055_domain_supported_curation.csv
+Apis_mellifera,gene-LOC725606,Serine protease gd-family homolog (PF16030/PF00089-supported),OG0007875_domain_supported_curation.csv
+Bombus_impatiens,gene-LOC100746039,Serine protease gd-family homolog (PF16030/PF00089-supported),OG0007875_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC100646207,Serine protease gd-family homolog (PF16030/PF00089-supported),OG0007875_domain_supported_curation.csv
+Megachile_rotundata,gene-LOC100877888,Serine protease gd-family homolog (PF16030/PF00089-supported),OG0007875_domain_supported_curation.csv
+Apis_mellifera,gene-B-gluc1,"GNBP / beta-1,3-glucan recognition protein family (PF15886-supported)",OG0001219_domain_supported_curation.csv
+Megachile_rotundata,gene-B-gluc1,"GNBP / beta-1,3-glucan recognition protein family (PF15886-supported)",OG0001219_domain_supported_curation.csv
+Bombus_terrestris,gene-LOC100631072,Relish-like NF-kappa-B family protein (Rel homology/ankyrin architecture supported),OG0006656_domain_supported_curation.csv
+Megachile_rotundata,gene-Rel,Relish-like NF-kappa-B family protein (Rel homology/ankyrin architecture supported),OG0006656_domain_supported_curation.csv
