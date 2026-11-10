@@ -1,0 +1,3 @@
+panel,hypothesis,length_aa,candidate_codon,codon_role,status
+C,FANCM-like,1316,TAA,Provisional termination,Computational hypothesis
+C,Serpin-like,851,ATG,Provisional initiation,Computational hypothesis

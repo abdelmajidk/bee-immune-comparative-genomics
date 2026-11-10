@@ -1,0 +1,3 @@
+manuscript_number,source_file,contribution
+Table S2,results/tables/comparative_representative_proteome_summary.csv,"Protein-coding gene counts, representative sequence counts, FASTA paths, selection methods"
+Table S2,results/tables/comparative_orthology_input_check.csv,Orthology input-validation measurements

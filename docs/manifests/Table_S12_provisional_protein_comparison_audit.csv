@@ -1,0 +1,7 @@
+candidate,reference_species,reference_gene_id,candidate_length_aa,reference_length_aa,aligned_positions,identity_percent,candidate_coverage_percent,reference_coverage_percent
+FANCM_candidate,Apis_mellifera,gene-LOC409579,1316,1327,1286,56.37636080870917,97.72036474164132,96.91032403918614
+FANCM_candidate,Bombus_impatiens,gene-LOC100743989,1316,1330,1279,58.24863174354965,97.18844984802432,96.16541353383458
+FANCM_candidate,Bombus_terrestris,gene-LOC100643999,1316,1333,1288,58.22981366459627,97.87234042553192,96.62415603900976
+Serpin_candidate,Apis_mellifera,gene-LOC726320,851,442,442,58.3710407239819,51.93889541715629,100.0
+Serpin_candidate,Bombus_impatiens,gene-LOC100741510,851,849,840,62.73809523809524,98.70740305522914,98.93992932862191
+Serpin_candidate,Bombus_terrestris,gene-LOC100644115,851,848,840,62.023809523809526,98.70740305522914,99.05660377358492

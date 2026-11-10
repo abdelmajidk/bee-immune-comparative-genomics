@@ -1,0 +1,30 @@
+manuscript_number,asset_type,placement,proposed_title,status,source_files,caption,scientific_review,final_file,notes,source_count,unresolved_sources,source_readiness
+Figure 1,Figure,Main,Comparative genome assembly and annotation characteristics,To generate,comparative_assembly_contiguity.csv; comparative_gene_annotation_summary.csv,,Pending,,,2,0,Sources located
+Figure 2,Figure,Main,Immune-candidate abundance and evidence tiers,To generate,comparative_immune_evidence_tier_summary.csv; comparative_immune_domain_consolidated_species_summary_v3.csv,,Pending,,,2,0,Sources located
+Figure 3,Figure,Main,Immune-related protein-family composition,To generate,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,,1,0,Sources located
+Figure 4,Figure,Main,Candidate-based versus full-orthogroup conservation,Existing - validated,figures/comparative_immune_orthogroup_conservation_v1.pdf,,Pending,,,1,0,Sources located
+Figure 5,Figure,Main,Orthogroup representation and candidate-selection gaps,To generate,comparative_immune_conservation_recalculated_v3.csv; comparative_immune_gap_supplementary_summary_v5.csv,,Pending,,,2,0,Sources located
+Figure 6,Figure,Main,OG0000186 FANCM-serpin domain architecture,To generate,comparative_immune_OG0000186_domain_evidence_audit.csv,,Pending,,,1,0,Sources located
+Figure S1,Figure,Supplementary,Chromosomal immune-candidate fractions,Existing - review,figures/chromosome_immune_fraction.pdf,,Pending,,,1,0,Sources located
+Figure S2,Figure,Supplementary,Spatial clustering null distribution,Existing - review,figures/clustering_null.pdf,,Pending,,,1,0,Sources located
+Figure S3,Figure,Supplementary,Immune-candidate and background gene lengths,Existing - review,figures/comparison_length_bp.pdf,,Pending,,,1,0,Sources located
+Figure S4,Figure,Supplementary,Immune-candidate and background GC fractions,Existing - review,figures/comparison_gc_fraction.pdf,,Pending,,,1,0,Sources located
+Figure S5,Figure,Supplementary,Chromosomal enrichment statistics,To generate,chromosome_enrichment.csv,,Pending,,,1,0,Sources located
+Figure S6,Figure,Supplementary,OG0000186 genomic organization and provisional split,To generate,OG0000186_Fancm_serpin_annotation_review_summary.csv,,Pending,,,1,0,Sources located
+Table 1,Table,Main,"Genome assembly, annotation, and proteome characteristics",To assemble,comparative_assembly_contiguity.csv; comparative_gene_annotation_summary.csv; comparative_representative_proteome_summary.csv,,Pending,,,3,0,Sources located
+Table 2,Table,Main,"Immune-candidate counts, evidence tiers, and domain-supported records",To assemble,comparative_immune_evidence_tier_summary.csv; comparative_immune_domain_consolidated_species_summary_v3.csv,,Pending,,,2,0,Sources located
+Table 3,Table,Main,Comparative immune-related family distribution,To assemble,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,,1,0,Sources located
+Table 4,Table,Main,Orthogroup conservation and candidate-selection gaps,To assemble,comparative_immune_conservation_summary_v3.csv; comparative_immune_gap_supplementary_summary_v5.csv,,Pending,,,2,0,Sources located
+Table 5,Table,Main,OG0000186 architecture and annotation-review evidence,To assemble,comparative_immune_OG0000186_domain_species_summary.csv,,Pending,,,1,0,Sources located
+Table S1,Table,Supplementary,Genome assembly and annotation completeness,To assemble,comparative_assembly_contiguity.csv; comparative_annotation_completeness.csv,,Pending,,,2,0,Sources located
+Table S2,Table,Supplementary,Representative proteome and orthology inputs,To assemble,comparative_representative_proteome_summary.csv; comparative_orthology_input_check.csv,,Pending,,,2,0,Sources located
+Table S3,Table,Supplementary,Complete consolidated immune-related candidate inventory,Existing - adapt,comparative_immune_domain_consolidated_inventory_v3.csv,,Pending,,,1,0,Sources located
+Table S4,Table,Supplementary,Immune-candidate evidence tiers and family assignments,To assemble,comparative_immune_refined_family_inventory.csv,,Pending,,,1,0,Sources located
+Table S5,Table,Supplementary,Comparative immune-related family matrix,Existing - adapt,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,,1,0,Sources located
+Table S6,Table,Supplementary,Orthogroup conservation audit,Existing - adapt,comparative_immune_conservation_recalculated_v3.csv,,Pending,,,1,0,Sources located
+Table S7,Table,Supplementary,Candidate-selection gaps and unselected orthogroup members,Existing - adapt,comparative_immune_candidate_gap_genes_v3.csv,,Pending,,,1,0,Sources located
+Table S8,Table,Supplementary,Chromosomal immune-candidate enrichment,Existing - adapt,chromosome_enrichment.csv,,Pending,,,1,0,Sources located
+Table S9,Table,Supplementary,Spatial permutation-test results,Existing - adapt,spatial_permutation_test.csv,,Pending,,,1,0,Sources located
+Table S10,Table,Supplementary,Targeted protein-domain curation evidence,To assemble,all_domain_supported_family_curation_30_records.csv,,Pending,,,1,0,Sources located
+Table S11,Table,Supplementary,OG0000186 domain-supported protein architecture,Existing - adapt,comparative_immune_OG0000186_domain_evidence_audit.csv,,Pending,,,1,0,Sources located
+Table S12,Table,Supplementary,OG0000186 genomic and provisional split evidence,To assemble,OG0000186_Fancm_serpin_annotation_review_summary.csv,,Pending,,,1,0,Sources located

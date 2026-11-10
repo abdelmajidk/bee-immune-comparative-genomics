@@ -1,0 +1,3 @@
+manuscript_number,source_file,source_sha256,contribution
+Table S9,results/tables/spatial_permutation_test.csv,cc7762ee46e8d17204a8512723acd6c91b95bc479e063ee2c8137f68b70311f6,Observed statistic and reported permutation-test summary
+Table S9,results/tables/spatial_null_distribution.csv,ab2e5506e67c03a130c5994a9af6660c55037b1df61061420bbc8956bf36ff6e,"Complete 2,000-permutation null distribution for independent validation"

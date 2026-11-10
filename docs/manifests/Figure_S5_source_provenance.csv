@@ -1,0 +1,3 @@
+figure,source_file,source_sha256,role
+Supplementary Figure S5,results/tables/chromosome_enrichment.csv,69013a80d25d3e92184115e543aeb0258b1c17630125e4b72ef994c23a862d91,Original chromosome-enrichment results
+Supplementary Figure S5,results/manuscript/tables/supplementary/Table_S8_Sequence_Level_Immune_Candidate_Enrichment.csv,4f412274f307f3add50ab5477f1ba5e3bb4df007639f009c1b3a299e2ed96238,Curated Supplementary Table S8

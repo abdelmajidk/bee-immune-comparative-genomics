@@ -1,0 +1,2 @@
+manuscript_number,source_file,selection_rule,complete_matrix_destination
+Table 3,results/tables/comparative_immune_domain_consolidated_family_matrix_v3.csv,Families with selected analysis records in at least three of four species,Table S5

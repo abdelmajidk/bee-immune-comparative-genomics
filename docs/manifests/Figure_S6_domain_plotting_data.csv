@@ -1,0 +1,5 @@
+protein_accession,signature_accession,signature_description,start,end,sequence_length,score,panel,coordinate_system
+OG0000186|Megachile_rotundata|gene-Fancm,PF00270,DEAD/DEAH box helicase,36,197,2134,2.8e-18,A,Reference protein amino acids; 1-based inclusive
+OG0000186|Megachile_rotundata|gene-Fancm,PF00271,Helicase conserved C-terminal domain,378,498,2134,6e-18,A,Reference protein amino acids; 1-based inclusive
+OG0000186|Megachile_rotundata|gene-Fancm,PF00079,Serpin (serine protease inhibitor),1365,1730,2134,1.5999999999999998e-90,A,Reference protein amino acids; 1-based inclusive
+OG0000186|Megachile_rotundata|gene-Fancm,PF00079,Serpin (serine protease inhibitor),1771,2133,2134,1.2e-86,A,Reference protein amino acids; 1-based inclusive

@@ -1,0 +1,3 @@
+manuscript_number,source_file,contribution
+Table S5,results/tables/comparative_immune_domain_consolidated_family_matrix_v3.csv,"All 36 analysis families, species-specific counts, orthogroup metrics, and domain support"
+Table S5,results/tables/comparative_immune_domain_consolidated_species_summary_v3.csv,Independent species-level count validation

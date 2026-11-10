@@ -1,0 +1,16 @@
+species,gene_id,sequence_length,signature_accession,signature_description,start,end,score,plot_order
+Megachile_rotundata,gene-Fancm,2134,PF00270,DEAD/DEAH box helicase,36,197,2.8e-18,1
+Megachile_rotundata,gene-Fancm,2134,PF00271,Helicase conserved C-terminal domain,378,498,6e-18,1
+Megachile_rotundata,gene-Fancm,2134,PF00079,Serpin (serine protease inhibitor),1365,1730,1.5999999999999998e-90,1
+Megachile_rotundata,gene-Fancm,2134,PF00079,Serpin (serine protease inhibitor),1771,2133,1.2e-86,1
+Apis_mellifera,gene-LOC409579,1327,PF00270,DEAD/DEAH box helicase,37,197,5.3e-17,2
+Apis_mellifera,gene-LOC409579,1327,PF00271,Helicase conserved C-terminal domain,378,498,3.8e-17,2
+Apis_mellifera,gene-LOC726320,442,PF00079,Serpin (serine protease inhibitor),71,432,5.1e-86,3
+Bombus_terrestris,gene-LOC100643999,1333,PF00270,DEAD/DEAH box helicase,37,197,3.2e-18,4
+Bombus_terrestris,gene-LOC100643999,1333,PF00271,Helicase conserved C-terminal domain,378,498,1.1e-17,4
+Bombus_terrestris,gene-LOC100644115,848,PF00079,Serpin (serine protease inhibitor),73,438,9.9e-86,5
+Bombus_terrestris,gene-LOC100644115,848,PF00079,Serpin (serine protease inhibitor),480,846,5.4e-81,5
+Bombus_impatiens,gene-LOC100743989,1330,PF00270,DEAD/DEAH box helicase,37,197,1.2e-18,6
+Bombus_impatiens,gene-LOC100743989,1330,PF00271,Helicase conserved C-terminal domain,375,495,1.2e-17,6
+Bombus_impatiens,gene-LOC100741510,849,PF00079,Serpin (serine protease inhibitor),73,438,8.7e-86,7
+Bombus_impatiens,gene-LOC100741510,849,PF00079,Serpin (serine protease inhibitor),480,847,1.2e-81,7

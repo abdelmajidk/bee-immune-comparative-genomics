@@ -1,0 +1,26 @@
+upstream_CDS_number,downstream_CDS_number,intron_start,intron_end,intron_length_bp,splice_pair,splice_class,junction_after_aa_approx,panel,coordinate_system
+1,2,16473962,16474049,88,GT-AG,Canonical GT-AG,56.333333333333336,B,Genomic bp; 1-based inclusive
+2,3,16473644,16473793,150,GT-AG,Canonical GT-AG,112.33333333333331,B,Genomic bp; 1-based inclusive
+3,4,16473167,16473470,304,GT-AG,Canonical GT-AG,170.0,B,Genomic bp; 1-based inclusive
+4,5,16472977,16473076,100,GT-AG,Canonical GT-AG,200.0,B,Genomic bp; 1-based inclusive
+5,6,16472661,16472751,91,GT-AG,Canonical GT-AG,275.0,B,Genomic bp; 1-based inclusive
+6,7,16472439,16472506,68,GT-AG,Canonical GT-AG,326.3333333333333,B,Genomic bp; 1-based inclusive
+7,8,16472244,16472316,73,GT-AG,Canonical GT-AG,367.0,B,Genomic bp; 1-based inclusive
+8,9,16472061,16472123,63,GT-AG,Canonical GT-AG,407.0,B,Genomic bp; 1-based inclusive
+9,10,16471815,16471894,80,GT-AG,Canonical GT-AG,462.3333333333333,B,Genomic bp; 1-based inclusive
+10,11,16471570,16471659,90,GT-AG,Canonical GT-AG,514.0,B,Genomic bp; 1-based inclusive
+11,12,16471248,16471331,84,GT-AG,Canonical GT-AG,593.3333333333334,B,Genomic bp; 1-based inclusive
+12,13,16469280,16469367,88,GT-AG,Canonical GT-AG,1220.0,B,Genomic bp; 1-based inclusive
+13,14,16466995,16468990,1996,AA-AG,Other noncanonical,1316.3333333333333,B,Genomic bp; 1-based inclusive
+14,15,16466728,16466824,97,GT-AG,Canonical GT-AG,1373.0,B,Genomic bp; 1-based inclusive
+15,16,16466476,16466544,69,GT-AG,Canonical GT-AG,1434.0,B,Genomic bp; 1-based inclusive
+16,17,16466193,16466261,69,GT-AG,Canonical GT-AG,1505.3333333333333,B,Genomic bp; 1-based inclusive
+17,18,16465904,16465974,71,GT-AG,Canonical GT-AG,1578.0,B,Genomic bp; 1-based inclusive
+18,19,16465638,16465717,80,GT-AG,Canonical GT-AG,1640.0,B,Genomic bp; 1-based inclusive
+19,20,16465405,16465486,82,GT-AG,Canonical GT-AG,1690.3333333333333,B,Genomic bp; 1-based inclusive
+20,21,16464886,16465209,324,GT-AG,Canonical GT-AG,1755.3333333333333,B,Genomic bp; 1-based inclusive
+21,22,16464746,16464817,72,GT-AG,Canonical GT-AG,1778.0,B,Genomic bp; 1-based inclusive
+22,23,16464440,16464562,123,GT-AG,Canonical GT-AG,1839.0,B,Genomic bp; 1-based inclusive
+23,24,16463945,16464013,69,GT-AG,Canonical GT-AG,1981.0,B,Genomic bp; 1-based inclusive
+24,25,16463694,16463749,56,GT-AG,Canonical GT-AG,2046.0,B,Genomic bp; 1-based inclusive
+25,26,16463473,16463554,82,GT-AG,Canonical GT-AG,2092.3333333333335,B,Genomic bp; 1-based inclusive

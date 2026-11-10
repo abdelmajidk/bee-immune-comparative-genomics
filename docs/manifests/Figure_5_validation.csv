@@ -1,0 +1,12 @@
+check,status,detail
+Orthogroup inventory,PASS,83 immune-associated orthogroups
+Orthogroups with selection gaps,PASS,41 orthogroups
+Species–orthogroup selection gaps,PASS,91 gap cells
+Unselected genes,PASS,104 genes
+Panel A counts,PASS,"42, 12, 8, 21"
+Panel B counts,PASS,"16, 22, 24, 29"
+Panel C counts,PASS,"21, 23, 26, 34"
+All unselected genes in gap cells,PASS,104 of 104 genes
+Original source reconciliation,PASS,"S6, S7, Main Table 4, species summary, gene review"
+Figure exports,PASS,PDF and PNG verified
+Source provenance,PASS,Five SHA-256-verified sources

@@ -1,0 +1,6 @@
+manuscript_number,asset_type,placement,proposed_title,status,source_files,caption,scientific_review,final_file,notes
+Table 1,Table,Main,"Genome assembly, annotation, and proteome characteristics",To assemble,comparative_assembly_contiguity.csv; comparative_gene_annotation_summary.csv; comparative_representative_proteome_summary.csv,,Pending,,
+Table 2,Table,Main,"Immune-candidate counts, evidence tiers, and domain-supported records",To assemble,comparative_immune_evidence_tier_summary.csv; comparative_immune_domain_consolidated_species_summary_v3.csv,,Pending,,
+Table 3,Table,Main,Comparative immune-related family distribution,To assemble,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,
+Table 4,Table,Main,Orthogroup conservation and candidate-selection gaps,To assemble,comparative_immune_conservation_summary_v3.csv; comparative_immune_gap_supplementary_summary_v5.csv,,Pending,,
+Table 5,Table,Main,OG0000186 architecture and annotation-review evidence,To assemble,comparative_immune_OG0000186_domain_species_summary.csv,,Pending,,

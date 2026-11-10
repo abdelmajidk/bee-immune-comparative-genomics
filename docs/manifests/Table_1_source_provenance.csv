@@ -1,0 +1,4 @@
+manuscript_number,source_file,contribution
+Table 1,results/tables/comparative_assembly_contiguity.csv,"Assembly size, contiguity, NC-sequence fraction"
+Table 1,results/tables/comparative_gene_annotation_summary.csv,Protein-coding gene counts
+Table 1,results/tables/comparative_representative_proteome_summary.csv,Representative protein sequence counts

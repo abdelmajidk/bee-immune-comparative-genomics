@@ -1,0 +1,23 @@
+check,status
+Original figure backed up,PASS
+Original backup integrity,PASS
+Four Pfam domain intervals,PASS
+Original protein length,PASS
+26 CDS segments,PASS
+"6,405 CDS nucleotides",PASS
+25 reconstructed introns,PASS
+24 GT-AG junctions,PASS
+One AA-AG junction,PASS
+AA-AG intron coordinates,PASS
+FANCM-like hypothesis,PASS
+Serpin-like hypothesis,PASS
+Independent hypothesis arithmetic,PASS
+Panel C vertical separation,PASS
+Panel C annotation separation,PASS
+Revised PDF generated,PASS
+Revised PNG generated,PASS
+PDF changed,PASS
+PNG changed,PASS
+Plotting data unchanged,PASS
+Caption unchanged,PASS
+Revision manifest,PASS

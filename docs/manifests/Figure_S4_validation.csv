@@ -1,0 +1,24 @@
+check,status,detail
+Original PDF checksum,PASS,Source figure verified
+Original PNG checksum,PASS,Source figure verified
+Source record count,PASS,"10,500 gene records"
+Unique gene identifiers,PASS,No duplicate gene IDs
+Source sequence count,PASS,16 sequences
+Immune annotation count,PASS,105 annotation-based records
+Background count,PASS,"10,395 protein-coding genes"
+Complete GC values,PASS,No missing values
+Valid GC range,PASS,All values between 0 and 1
+Independent U reconstruction,PASS,Pooled-rank reconstruction
+Immune median,PASS,Original median reproduced
+Background median,PASS,Original median reproduced
+Mann–Whitney U,PASS,Original U reproduced
+Two-sided p-value,PASS,Original p-value reproduced
+Cliff's delta,PASS,Original effect size reproduced
+Nonsignificant result,PASS,No significant group difference
+PDF copy integrity,PASS,Byte-identical approved PDF
+PNG copy integrity,PASS,Byte-identical approved PNG
+Plotting data export,PASS,Complete source population
+Descriptive-statistics export,PASS,Both groups represented
+Statistical-test export,PASS,One verified test
+Caption,PASS,Interpretive safeguards documented
+Source provenance,PASS,Four source checksums

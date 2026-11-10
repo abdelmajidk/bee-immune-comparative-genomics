@@ -1,0 +1,13 @@
+manuscript_number,asset_type,placement,proposed_title,status,source_files,caption,scientific_review,final_file,notes
+Table S1,Table,Supplementary,Genome assembly and annotation completeness,To assemble,comparative_assembly_contiguity.csv; comparative_annotation_completeness.csv,,Pending,,
+Table S2,Table,Supplementary,Representative proteome and orthology inputs,To assemble,comparative_representative_proteome_summary.csv; comparative_orthology_input_check.csv,,Pending,,
+Table S3,Table,Supplementary,Complete consolidated immune-related candidate inventory,Existing - adapt,comparative_immune_domain_consolidated_inventory_v3.csv,,Pending,,
+Table S4,Table,Supplementary,Immune-candidate evidence tiers and family assignments,To assemble,comparative_immune_refined_family_inventory.csv,,Pending,,
+Table S5,Table,Supplementary,Comparative immune-related family matrix,Existing - adapt,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,
+Table S6,Table,Supplementary,Orthogroup conservation audit,Existing - adapt,comparative_immune_conservation_recalculated_v3.csv,,Pending,,
+Table S7,Table,Supplementary,Candidate-selection gaps and unselected orthogroup members,Existing - adapt,comparative_immune_candidate_gap_genes_v3.csv,,Pending,,
+Table S8,Table,Supplementary,Chromosomal immune-candidate enrichment,Existing - adapt,chromosome_enrichment.csv,,Pending,,
+Table S9,Table,Supplementary,Spatial permutation-test results,Existing - adapt,spatial_permutation_test.csv,,Pending,,
+Table S10,Table,Supplementary,Targeted protein-domain curation evidence,To assemble,all_domain_supported_family_curation_30_records.csv,,Pending,,
+Table S11,Table,Supplementary,OG0000186 domain-supported protein architecture,Existing - adapt,comparative_immune_OG0000186_domain_evidence_audit.csv,,Pending,,
+Table S12,Table,Supplementary,OG0000186 genomic and provisional split evidence,To assemble,OG0000186_Fancm_serpin_annotation_review_summary.csv,,Pending,,

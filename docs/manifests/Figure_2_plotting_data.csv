@@ -1,0 +1,5 @@
+species,Tier 1,Tier 2,Tier 3,original_candidates,consolidated_records,additional_records,domain_supported_records,other_consolidated_records,domain_supported_pct
+Megachile_rotundata,18,28,18,64,64,0,8,56,12.5
+Apis_mellifera,17,22,18,57,58,1,6,52,10.344827586206897
+Bombus_terrestris,13,26,18,57,57,0,10,47,17.54385964912281
+Bombus_impatiens,11,26,15,52,52,0,6,46,11.538461538461538

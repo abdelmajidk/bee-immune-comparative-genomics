@@ -1,0 +1,5 @@
+species,assembly_sequences,assembly_Mb,N50_Mb,total_genes,informative_descriptions,named_gene_symbols,informative_description_pct,named_gene_symbol_pct,protein_coding_genes,representative_sequences
+Megachile_rotundata,1818,613.362,5.961,10674,7663,4169,71.79,39.06,10674,10674
+Apis_mellifera,177,225.251,13.619,9935,476,398,4.79,4.01,9935,9935
+Bombus_terrestris,249,392.962,14.593,10310,25,9,0.24,0.09,10310,10310
+Bombus_impatiens,5460,246.856,1.399,10632,4,2,0.04,0.02,10632,10632

@@ -1,0 +1,2 @@
+manuscript_number,source_file,source_rows,source_columns,source_sha256,species_assignment,contribution
+Table S8,results/tables/chromosome_enrichment.csv,16,10,69013a80d25d3e92184115e543aeb0258b1c17630125e4b72ef994c23a862d91,Not inferred from sequence identifiers,Original assembly-sequence-level candidate-enrichment statistics

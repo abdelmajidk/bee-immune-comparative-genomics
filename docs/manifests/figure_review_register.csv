@@ -1,0 +1,6 @@
+figure_subject,available_formats,source_files,proposed_role,manuscript_number,caption,scientific_review_status
+chromosome_immune_fraction,".pdf, .png",figures/chromosome_immune_fraction.pdf | figures/chromosome_immune_fraction.png,Review required,,,Pending
+clustering_null,".pdf, .png",figures/clustering_null.pdf | figures/clustering_null.png,Review required,,,Pending
+comparative_immune_orthogroup_conservation_v1,".pdf, .png",figures/comparative_immune_orthogroup_conservation_v1.pdf | figures/comparative_immune_orthogroup_conservation_v1.png,Review required,,,Pending
+comparison_gc_fraction,".pdf, .png",figures/comparison_gc_fraction.pdf | figures/comparison_gc_fraction.png,Review required,,,Pending
+comparison_length_bp,".pdf, .png",figures/comparison_length_bp.pdf | figures/comparison_length_bp.png,Review required,,,Pending

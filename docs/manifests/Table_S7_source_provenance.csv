@@ -1,0 +1,5 @@
+manuscript_number,source_file,contribution
+Table S7,results/tables/comparative_immune_candidate_gap_genes_v3.csv,104 annotated genes in candidate-selection gaps
+Table S7,results/tables/comparative_immune_gap_supplementary_summary_v5.csv,Independent species-level gap totals
+Table S7,results/tables/comparative_immune_conservation_recalculated_v3.csv,Validation of candidate and full-member counts
+Table S7,results/tables/comparative_immune_conservation_summary_v3.csv,Validation of 41 affected orthogroups and 91 species–orthogroup combinations

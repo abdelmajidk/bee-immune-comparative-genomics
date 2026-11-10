@@ -1,0 +1,13 @@
+check,status,detail
+Original PDF checksum,PASS,Cell 40 source asset verified
+Original PNG checksum,PASS,Cell 40 source asset verified
+Source table vs S8,PASS,16 sequence-level records reconciled
+Fraction reconstruction,PASS,n_immune / n_genes
+Pooled fraction,PASS,"105 / 10,500 = 0.0100"
+BH adjustment,PASS,16 p-values independently adjusted
+BH-significant sequences,PASS,No q < 0.05
+PDF copy integrity,PASS,Byte-identical approved figure
+PNG copy integrity,PASS,Byte-identical approved figure
+Plotting data,PASS,16 records exported
+Caption,PASS,Interpretive safeguards documented
+Source provenance,PASS,Four SHA-256 source records

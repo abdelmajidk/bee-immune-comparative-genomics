@@ -1,0 +1,5 @@
+manuscript_number,source_file,contribution
+Table 2,results/tables/comparative_immune_refined_family_inventory.csv,original_inventory
+Table 2,results/tables/comparative_immune_evidence_tier_summary.csv,evidence_tiers
+Table 2,results/tables/comparative_immune_domain_consolidated_inventory_v3.csv,consolidated_inventory
+Table 2,results/tables/comparative_immune_domain_consolidated_species_summary_v3.csv,consolidated_summary

@@ -1,0 +1,7 @@
+manuscript_number,asset_type,placement,proposed_title,status,source_files,caption,scientific_review,final_file,notes
+Figure S1,Figure,Supplementary,Chromosomal immune-candidate fractions,Existing - review,figures/chromosome_immune_fraction.pdf,,Pending,,
+Figure S2,Figure,Supplementary,Spatial clustering null distribution,Existing - review,figures/clustering_null.pdf,,Pending,,
+Figure S3,Figure,Supplementary,Immune-candidate and background gene lengths,Existing - review,figures/comparison_length_bp.pdf,,Pending,,
+Figure S4,Figure,Supplementary,Immune-candidate and background GC fractions,Existing - review,figures/comparison_gc_fraction.pdf,,Pending,,
+Figure S5,Figure,Supplementary,Chromosomal enrichment statistics,To generate,chromosome_enrichment.csv,,Pending,,
+Figure S6,Figure,Supplementary,OG0000186 genomic organization and provisional split,To generate,OG0000186_Fancm_serpin_annotation_review_summary.csv,,Pending,,

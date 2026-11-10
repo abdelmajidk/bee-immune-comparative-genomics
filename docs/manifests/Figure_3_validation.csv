@@ -1,0 +1,12 @@
+check,status,detail
+Consolidated inventory,PASS,231 candidate records
+Complete family inventory,PASS,36 analysis families
+Plotted family selection,PASS,24 families represented in >=3 species
+Plotted candidate coverage,PASS,213 of 231 records
+Targeted domain-supported coverage,PASS,22 of 30 records
+Main Table 3 reconciliation,PASS,All displayed counts agree
+Supplementary Table S5 reconciliation,PASS,All 36 family counts agree
+Plotting-data export,PASS,CSV round-trip verified
+Corrected layout,PASS,Top species labels; dedicated colorbar and explanatory-note regions
+Figure exports,PASS,PDF and PNG file integrity verified
+Source provenance,PASS,Three SHA-256-verified sources

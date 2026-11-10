@@ -1,0 +1,21 @@
+check,status,detail
+Original PDF checksum,PASS,Source figure verified
+Original PNG checksum,PASS,Source figure verified
+Source record count,PASS,"10,500 gene records"
+Unique gene identifiers,PASS,No duplicate gene IDs
+Source sequence count,PASS,16 NC_-prefixed sequences
+Immune annotation count,PASS,105 annotation-based records
+Background count,PASS,"10,395 protein-coding genes"
+Inclusive coordinate length,PASS,end - start + 1
+Immune group median,PASS,"6,719 bp"
+Background group median,PASS,"4,457 bp"
+Mann–Whitney U,PASS,"648,362"
+Two-sided p-value,PASS,p = 0.000898
+Cliff's delta,PASS,delta = 0.188
+PDF copy integrity,PASS,Byte-identical approved PDF
+PNG copy integrity,PASS,Byte-identical approved PNG
+Plotting data export,PASS,Complete source population
+Descriptive-statistics export,PASS,Both groups
+Statistical-test export,PASS,One verified test
+Caption,PASS,Interpretive safeguards documented
+Source provenance,PASS,Four source checksums

@@ -1,0 +1,2 @@
+feature,n_immune,n_background,immune_median_bp,background_median_bp,mann_whitney_U,p_two_sided,cliffs_delta,plot_y_scale,length_definition
+inclusive_genomic_gene_span_bp,105,10395,6719.0,4457.0,648362.0,0.0008982225645395499,0.18804736709498604,logarithmic,end - start + 1

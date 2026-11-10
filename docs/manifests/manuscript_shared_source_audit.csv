@@ -1,0 +1,12 @@
+resolved_path,manuscript_items,number_of_items
+results/tables/comparative_assembly_contiguity.csv,Figure 1; Table 1; Table S1,3
+results/tables/comparative_immune_domain_consolidated_family_matrix_v3.csv,Figure 3; Table 3; Table S5,3
+results/orthology/immune_domain_validation/OG0000186_Fancm_serpin_annotation_review_summary.csv,Figure S6; Table S12,2
+results/tables/chromosome_enrichment.csv,Figure S5; Table S8,2
+results/tables/comparative_gene_annotation_summary.csv,Figure 1; Table 1,2
+results/tables/comparative_immune_OG0000186_domain_evidence_audit.csv,Figure 6; Table S11,2
+results/tables/comparative_immune_conservation_recalculated_v3.csv,Figure 5; Table S6,2
+results/tables/comparative_immune_domain_consolidated_species_summary_v3.csv,Figure 2; Table 2,2
+results/tables/comparative_immune_evidence_tier_summary.csv,Figure 2; Table 2,2
+results/tables/comparative_immune_gap_supplementary_summary_v5.csv,Figure 5; Table 4,2
+results/tables/comparative_representative_proteome_summary.csv,Table 1; Table S2,2

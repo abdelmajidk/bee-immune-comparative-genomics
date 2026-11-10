@@ -1,0 +1,5 @@
+species,annotated_OG_genes,selected_immune_candidates,serpin_domain_proteins,FANCM_domain_proteins
+Megachile_rotundata,1,0,1,1
+Apis_mellifera,2,1,1,1
+Bombus_terrestris,2,0,1,1
+Bombus_impatiens,2,0,1,1

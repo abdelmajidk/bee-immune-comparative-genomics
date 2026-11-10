@@ -1,0 +1,2 @@
+feature,n_immune,n_background,immune_median,background_median,mann_whitney_U,p_two_sided,cliffs_delta,significant_at_0_05,gc_measurement_units,gc_sequence_interval
+gc_fraction,105,10395,0.3419323436359211,0.3365644576327068,580348.5,0.2627596460670786,0.06342060056345766,False,fraction,not independently verified

@@ -1,0 +1,6 @@
+manuscript_number,evidence_dataset,source_file,evidence_status
+Table 5,member_audit,results/tables/comparative_immune_OG0000186_member_audit.csv,Original annotation / computational evidence
+Table 5,domain_audit,results/tables/comparative_immune_OG0000186_domain_evidence_audit.csv,Original annotation / computational evidence
+Table 5,species_summary,results/tables/comparative_immune_OG0000186_domain_species_summary.csv,Original annotation / computational evidence
+Table 5,annotation_review,results/orthology/immune_domain_validation/OG0000186_Fancm_serpin_annotation_review_summary.csv,Original annotation / computational evidence
+Table 5,provisional_split,results/orthology/immune_domain_validation/OG0000186_provisional_split_protein_comparisons.csv,Provisional computational interpretation

@@ -1,0 +1,8 @@
+plot_order,species,species_label,gene_id,protein_length_aa,selected_immune_candidate
+1,Megachile_rotundata,M. rotundata,gene-Fancm,2134,False
+2,Apis_mellifera,A. mellifera,gene-LOC409579,1327,False
+3,Apis_mellifera,A. mellifera,gene-LOC726320,442,True
+4,Bombus_terrestris,B. terrestris,gene-LOC100643999,1333,False
+5,Bombus_terrestris,B. terrestris,gene-LOC100644115,848,False
+6,Bombus_impatiens,B. impatiens,gene-LOC100743989,1330,False
+7,Bombus_impatiens,B. impatiens,gene-LOC100741510,849,False

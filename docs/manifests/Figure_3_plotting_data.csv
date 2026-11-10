@@ -1,0 +1,25 @@
+family_plot_order,analysis_family,Megachile_rotundata,Apis_mellifera,Bombus_terrestris,Bombus_impatiens,total_analysis_records,species_with_candidates,total_domain_supported_records
+1,Serine protease - unspecified,17,15,12,11,55,4,0
+2,Toll receptor family,6,6,7,8,27,4,0
+3,Spaetzle family,6,3,7,7,23,4,0
+4,Serpin / protease inhibitor,3,3,2,3,11,4,0
+5,Lysozyme,2,3,2,2,9,4,0
+6,Phenoloxidase,2,2,3,2,9,4,0
+7,Cactus,1,3,1,1,6,4,0
+8,Defensin,2,2,1,1,6,4,0
+9,PGRP,2,2,1,1,6,4,0
+10,Argonaute-family protein,2,1,1,1,5,4,5
+11,Hymenoptaecin,1,1,2,1,5,4,0
+12,Trypsin-like serine-protease homolog (PF00089-supported),0,1,2,2,5,3,5
+13,Argonaute-2,1,1,1,1,4,4,0
+14,ECSIT,1,1,1,1,4,4,0
+15,Hopscotch,1,1,1,1,4,4,0
+16,Imd,1,1,1,1,4,4,0
+17,Kazal-domain-containing protein (putative protease inhibitor),1,1,1,1,4,4,4
+18,MyD88,1,1,1,1,4,4,0
+19,Pelle,1,1,1,1,4,4,0
+20,Serine protease gd-family homolog (PF16030/PF00089-supported),1,1,1,1,4,4,4
+21,Toll-interacting protein,1,1,1,1,4,4,0
+22,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution),1,1,1,1,4,4,4
+23,Abaecin,0,1,1,1,3,3,0
+24,Dicer - unspecified,0,1,1,1,3,3,0

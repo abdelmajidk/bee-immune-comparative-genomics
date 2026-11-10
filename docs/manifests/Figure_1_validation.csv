@@ -1,0 +1,7 @@
+check,status,detail
+Four species in fixed order,PASS,Megachile_rotundata; Apis_mellifera; Bombus_terrestris; Bombus_impatiens
+Annotated gene and proteome counts agree,PASS,All four species
+Annotation percentages independently reproduced,PASS,Tolerance 0.02 percentage points
+Six source-derived panels,PASS,"assembly_Mb, assembly_sequences, N50_Mb, protein_coding_genes, informative_description_pct, named_gene_symbol_pct"
+PDF and PNG successfully exported,PASS,"PDF 25,911 bytes; PNG 326,368 bytes"
+NC_ fraction excluded from figure,PASS,Accession prefix not interpreted as chromosome completeness

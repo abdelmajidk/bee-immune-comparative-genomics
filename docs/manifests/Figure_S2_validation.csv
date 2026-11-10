@@ -1,0 +1,18 @@
+check,status,detail
+Original PDF checksum,PASS,Original source asset verified
+Original PNG checksum,PASS,Original source asset verified
+Original summary vs Table S9,PASS,All eight summary fields reconciled
+Permutation count,PASS,Complete null distribution
+Observed statistic,PASS,Seven close pairs
+Distance threshold,PASS,"20,000 bp"
+Null mean,PASS,3.4695
+Null percentile interval,PASS,0–7
+Upper-tail empirical p,PASS,Plus-one correction
+Lower-tail empirical p,PASS,Plus-one correction
+Nonsignificant clustering,PASS,p = 0.057971
+PDF copy integrity,PASS,Byte-identical approved PDF
+PNG copy integrity,PASS,Byte-identical approved PNG
+Histogram plotting data,PASS,All permutations represented
+Statistics export,PASS,One validated summary record
+Caption,PASS,Nonsignificant result stated
+Source provenance,PASS,Five source checksums

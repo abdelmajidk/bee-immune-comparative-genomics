@@ -1,0 +1,3 @@
+manuscript_number,source_file,contribution
+Table S1,results/tables/comparative_assembly_contiguity.csv,Genome assembly and sequence metrics
+Table S1,results/tables/comparative_annotation_completeness.csv,Annotation completeness metrics

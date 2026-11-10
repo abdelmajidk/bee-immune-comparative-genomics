@@ -1,0 +1,4 @@
+manuscript_number,source_file,contribution
+Table S3,results/tables/comparative_immune_domain_consolidated_inventory_v3.csv,All 231 consolidated analysis records and all 40 source columns
+Table S3,results/tables/comparative_immune_refined_family_inventory.csv,Verification of 230 original annotation-selected candidates
+Table S3,results/tables/comparative_immune_domain_consolidated_species_summary_v3.csv,Independent species-level count and orthogroup assignment checks

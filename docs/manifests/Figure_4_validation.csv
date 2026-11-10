@@ -1,0 +1,11 @@
+check,status,detail
+83 orthogroups independently reconstructed,PASS,Supplementary Table S6
+Candidate representation distribution,PASS,"25, 15, 11, 32"
+Full membership distribution,PASS,"0, 9, 7, 67"
+Original figure-data agreement,PASS,All counts and percentages reconciled
+Main Table 4 agreement,PASS,"83, 32, and 67 confirmed"
+PDF copy integrity,PASS,Byte-identical to approved original
+PNG copy integrity,PASS,Byte-identical to approved original
+Plotting-data CSV,PASS,Reconstructed data exported
+Caption,PASS,Scientific interpretation documented
+Source provenance,PASS,Five source SHA-256 checksums

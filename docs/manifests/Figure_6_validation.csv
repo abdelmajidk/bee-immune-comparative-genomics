@@ -1,0 +1,12 @@
+check,status,detail
+Original protein inventory,PASS,7 proteins
+Pfam domain inventory,PASS,15 hits
+Main Table 5 agreement,PASS,7 proteins reconciled
+Supplementary Table S11 agreement,PASS,7 proteins reconciled
+Original protein lengths,PASS,All 7 lengths verified
+Composite architecture,PASS,Four original M. rotundata domain intervals
+Original translation,PASS,"Exact 2,134-aa reference translation"
+Noncanonical junction,PASS,One AA–AG junction
+Plotting data round-trip,PASS,Protein and domain CSVs
+PDF and PNG integrity,PASS,Both exports verified
+Source provenance,PASS,Eight SHA-256 source records

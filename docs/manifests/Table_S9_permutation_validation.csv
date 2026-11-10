@@ -1,0 +1,2 @@
+observed_pairs,permutations,gap_bp,null_mean_reported,null_mean_recalculated,upper_tail_count,lower_tail_count,p_clustering_reported,p_clustering_recalculated,p_dispersion_reported,p_dispersion_recalculated,null_ci_low_reported,null_ci_high_reported,null_q025_recalculated,null_q975_recalculated,interval_matches_empirical_quantiles
+7,2000,20000,3.4695,3.4695,115,1959,0.0579710144927536,0.057971014492753624,0.9795102448775612,0.9795102448775612,0.0,7.0,0.0,7.0,True

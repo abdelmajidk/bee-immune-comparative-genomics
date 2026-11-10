@@ -1,0 +1,27 @@
+seqid,start,end,strand,CDS_number,length_bp,panel,coordinate_system,display_class
+NC_134991.1,16474050,16474218,-,1,169,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16473794,16473961,-,2,168,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16473471,16473643,-,3,173,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16473077,16473166,-,4,90,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16472752,16472976,-,5,225,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16472507,16472660,-,6,154,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16472317,16472438,-,7,122,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16472124,16472243,-,8,120,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16471895,16472060,-,9,166,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16471660,16471814,-,10,155,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16471332,16471569,-,11,238,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16469368,16471247,-,12,1880,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16468991,16469279,-,13,289,B,Genomic bp; 1-based inclusive,Reference CDS 1–13
+NC_134991.1,16466825,16466994,-,14,170,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16466545,16466727,-,15,183,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16466262,16466475,-,16,214,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16465975,16466192,-,17,218,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16465718,16465903,-,18,186,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16465487,16465637,-,19,151,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16465210,16465404,-,20,195,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16464818,16464885,-,21,68,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16464563,16464745,-,22,183,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16464014,16464439,-,23,426,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16463750,16463944,-,24,195,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16463555,16463693,-,25,139,B,Genomic bp; 1-based inclusive,Reference CDS 14–26
+NC_134991.1,16463345,16463472,-,26,128,B,Genomic bp; 1-based inclusive,Reference CDS 14–26

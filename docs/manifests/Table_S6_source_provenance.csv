@@ -1,0 +1,4 @@
+manuscript_number,source_file,contribution
+Table S6,results/tables/comparative_immune_conservation_recalculated_v3.csv,Complete 83-orthogroup conservation audit
+Table S6,results/tables/comparative_immune_conservation_distribution_v3.csv,Independent species-representation distribution
+Table S6,results/tables/comparative_immune_conservation_summary_v3.csv,Independent conservation and selection-gap totals

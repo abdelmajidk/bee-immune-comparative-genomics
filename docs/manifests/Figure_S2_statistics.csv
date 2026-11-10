@@ -1,0 +1,2 @@
+observed_close_pairs,distance_threshold_bp,permutations,null_mean,null_ci_low,null_ci_high,null_count_ge_observed,null_count_le_observed,p_clustering,p_dispersion,significant_clustering_0_05
+7,20000,2000,3.4695,0.0,7.0,115,1959,0.057971014492753624,0.9795102448775612,False

@@ -1,0 +1,7 @@
+manuscript_number,asset_type,placement,proposed_title,status,source_files,caption,scientific_review,final_file,notes
+Figure 1,Figure,Main,Comparative genome assembly and annotation characteristics,To generate,comparative_assembly_contiguity.csv; comparative_gene_annotation_summary.csv,,Pending,,
+Figure 2,Figure,Main,Immune-candidate abundance and evidence tiers,To generate,comparative_immune_evidence_tier_summary.csv; comparative_immune_domain_consolidated_species_summary_v3.csv,,Pending,,
+Figure 3,Figure,Main,Immune-related protein-family composition,To generate,comparative_immune_domain_consolidated_family_matrix_v3.csv,,Pending,,
+Figure 4,Figure,Main,Candidate-based versus full-orthogroup conservation,Existing - validated,figures/comparative_immune_orthogroup_conservation_v1.pdf,,Pending,,
+Figure 5,Figure,Main,Orthogroup representation and candidate-selection gaps,To generate,comparative_immune_conservation_recalculated_v3.csv; comparative_immune_gap_supplementary_summary_v5.csv,,Pending,,
+Figure 6,Figure,Main,OG0000186 FANCM-serpin domain architecture,To generate,comparative_immune_OG0000186_domain_evidence_audit.csv,,Pending,,

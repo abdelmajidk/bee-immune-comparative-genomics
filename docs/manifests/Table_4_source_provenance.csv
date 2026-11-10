@@ -1,0 +1,6 @@
+manuscript_number,source_file,contribution
+Table 4,results/tables/comparative_immune_conservation_distribution_v3.csv,distribution
+Table 4,results/tables/comparative_immune_conservation_summary_v3.csv,summary
+Table 4,results/tables/comparative_immune_conservation_recalculated_v3.csv,orthogroups
+Table 4,results/tables/comparative_immune_candidate_gap_genes_v3.csv,gap_genes
+Table 4,results/tables/comparative_immune_gap_supplementary_summary_v5.csv,gap_species

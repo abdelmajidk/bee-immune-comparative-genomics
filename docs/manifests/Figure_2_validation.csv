@@ -1,0 +1,9 @@
+check,status,detail
+Original candidate inventory,PASS,230 original candidates
+Evidence-tier totals,PASS,Tier 1: 59; Tier 2: 102; Tier 3: 69
+Consolidated inventory,PASS,231 records
+Supplementary Apis addition,PASS,gene-LOC409949; no original tier
+Targeted domain-supported subset,PASS,30 records; register membership verified
+Exported plotting-data reconstruction,PASS,All species and numeric values agree
+Main Table 2 and species summary,PASS,All displayed counts agree
+Figure exports and source provenance,PASS,"PDF, PNG, caption, and checksums verified"

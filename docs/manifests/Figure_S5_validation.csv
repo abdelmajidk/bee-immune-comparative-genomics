@@ -1,0 +1,17 @@
+check,status,detail
+Original vs Table S8,PASS,16 rows reconciled
+Unique sequence records,PASS,16 sequences
+Gene total,PASS,"10,500 genes"
+Immune total,PASS,105 annotations
+Fraction reconstruction,PASS,All 16 fractions
+Fisher odds ratios,PASS,All 16 odds ratios
+Fisher p-values,PASS,All 16 two-sided p-values
+BH correction,PASS,All 16 q-values
+Nominal results,PASS,Two nominal p-values below 0.05
+BH significance,PASS,No adjusted q-values below 0.05
+Zero odds-ratio treatment,PASS,Zero represented separately
+PDF integrity,PASS,Vector PDF generated
+PNG integrity,PASS,High-resolution PNG generated
+Plotting-data export,PASS,16 records exported
+Caption,PASS,Statistical safeguards documented
+Source provenance,PASS,Two source checksums

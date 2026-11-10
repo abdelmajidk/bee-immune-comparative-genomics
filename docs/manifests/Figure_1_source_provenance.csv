@@ -1,0 +1,4 @@
+manuscript_number,source_file,source_sha256,contribution
+Figure 1,results/tables/comparative_assembly_contiguity.csv,0847b0b90c09ea0d92e80f7415930cb65ec65cf6cdc6121113b3b4b2318c7e2d,"Assembly span, sequence count, and sequence N50"
+Figure 1,results/tables/comparative_annotation_completeness.csv,205a93cea04f4e56fad849af17f945a38c08e8fcac81b3f80af24d7853d74e8d,Informative descriptions and named-symbol coverage
+Figure 1,results/tables/comparative_representative_proteome_summary.csv,24cdb00c6d3fe3430a0beb060288178477a854ce49194de5c318b92e16078816,Annotated protein-coding gene counts
