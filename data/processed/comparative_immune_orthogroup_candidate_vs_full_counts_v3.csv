@@ -1,0 +1,84 @@
+orthogroup,Megachile_rotundata,Apis_mellifera,Bombus_terrestris,Bombus_impatiens,species_with_candidates,total_candidate_records,maximum_candidate_copies,minimum_candidate_copies,candidate_copy_variation,Megachile_rotundata_full_og_genes,Apis_mellifera_full_og_genes,Bombus_terrestris_full_og_genes,Bombus_impatiens_full_og_genes,species_with_orthologs,total_orthogroup_genes,full_og_copy_variation,candidate_representation_category,full_og_representation_category,candidate_missing_but_og_present,consolidated_analysis_family
+OG0000037,2,1,1,1,4,5,2,1,True,15,1,1,1,4,18,True,Candidates in all 4 species,OG in all 4 species,False,Toll receptor family
+OG0000044,0,1,2,2,3,5,2,0,True,3,1,6,6,4,16,True,Candidates in 3 species,OG in all 4 species,True,Trypsin-like serine-protease homolog (PF00089-supported)
+OG0000055,1,0,3,0,2,4,3,0,True,4,1,5,4,4,14,True,Candidates in 2 species,OG in all 4 species,True,Serpin-family protein (PF00079-supported)
+OG0000100,2,2,1,1,4,6,2,1,True,6,2,1,1,4,10,True,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0000156,1,0,0,0,1,1,1,0,True,1,2,2,2,4,7,True,Candidates in 1 species,OG in all 4 species,True,Serpin / protease inhibitor
+OG0000186,0,1,0,0,1,1,1,0,True,1,2,2,2,4,7,True,Candidates in 1 species,OG in all 4 species,True,Serpin / protease inhibitor
+OG0000223,0,0,1,1,2,2,1,0,True,4,0,1,1,3,6,True,Candidates in 2 species,OG in 3 species,True,Serine protease - unspecified
+OG0000263,2,2,1,1,4,6,2,1,True,2,2,1,1,4,6,True,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0000267,1,3,1,1,4,6,3,1,True,1,3,1,1,4,6,True,Candidates in all 4 species,OG in all 4 species,False,Cactus
+OG0000329,1,0,1,1,3,3,1,0,True,2,1,1,1,4,5,True,Candidates in 3 species,OG in all 4 species,True,Spaetzle family
+OG0000335,2,1,1,1,4,5,2,1,True,2,1,1,1,4,5,True,Candidates in all 4 species,OG in all 4 species,False,Argonaute-family protein
+OG0000390,1,2,1,1,4,5,2,1,True,1,2,1,1,4,5,True,Candidates in all 4 species,OG in all 4 species,False,Lysozyme
+OG0000398,1,1,2,1,4,5,2,1,True,1,1,2,1,4,5,True,Candidates in all 4 species,OG in all 4 species,False,Hymenoptaecin
+OG0000672,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0000673,0,1,1,1,3,3,1,0,True,1,1,1,1,4,4,False,Candidates in 3 species,OG in all 4 species,True,Serine protease - unspecified
+OG0000677,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Toll receptor family
+OG0000678,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Toll receptor family
+OG0000679,1,0,1,1,3,3,1,0,True,1,1,1,1,4,4,False,Candidates in 3 species,OG in all 4 species,True,Toll receptor family
+OG0000680,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Toll receptor family
+OG0000863,1,0,1,1,3,3,1,0,True,1,1,1,1,4,4,False,Candidates in 3 species,OG in all 4 species,True,Spaetzle family
+OG0000869,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Argonaute-2
+OG0000884,0,1,1,1,3,3,1,0,True,1,1,1,1,4,4,False,Candidates in 3 species,OG in all 4 species,True,Dicer - unspecified
+OG0000885,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Dicer-1
+OG0001157,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Argonaute-3
+OG0001219,1,1,0,0,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,"GNBP / beta-1,3-glucan recognition protein family (PF15886-supported)"
+OG0001256,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Defensin
+OG0001294,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Imd
+OG0001342,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Domeless
+OG0001392,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Phenoloxidase
+OG0001816,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,FADD
+OG0001938,0,0,1,1,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,Toll receptor family
+OG0002124,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Spaetzle family
+OG0002196,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Toll receptor family
+OG0002607,0,1,1,0,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,Serine protease - unspecified
+OG0002873,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Spaetzle family
+OG0003403,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Trypsin-like serine protease homolog (catalytic Ser-to-Gly substitution)
+OG0003683,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Lysozyme
+OG0003780,1,0,1,1,3,3,1,0,True,1,1,1,1,4,4,False,Candidates in 3 species,OG in all 4 species,True,Serine protease - unspecified
+OG0003781,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0003853,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Kazal-domain-containing protein (putative protease inhibitor)
+OG0004157,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0004172,0,0,1,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Toll receptor family
+OG0004243,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0004769,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0004919,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0005380,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,MyD88
+OG0005798,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0006048,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Toll receptor family
+OG0006150,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0006213,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Pelle
+OG0006465,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease - unspecified
+OG0006511,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Toll-interacting protein
+OG0006656,1,0,1,0,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,Relish-like NF-kappa-B family protein (Rel homology/ankyrin architecture supported)
+OG0007120,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Unresolved annotation
+OG0007184,0,1,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0007508,1,1,0,0,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,Serine protease - unspecified
+OG0007520,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Dredd
+OG0007749,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Tube
+OG0007832,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Spaetzle family
+OG0007875,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Serine protease gd-family homolog (PF16030/PF00089-supported)
+OG0008035,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0008096,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Hopscotch
+OG0008202,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Spaetzle family
+OG0008313,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Serine protease - unspecified
+OG0008419,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,ECSIT
+OG0008557,1,0,0,0,1,1,1,0,True,1,1,1,1,4,4,False,Candidates in 1 species,OG in all 4 species,True,Thioester-containing protein
+OG0008827,1,1,0,0,2,2,1,0,True,1,1,1,1,4,4,False,Candidates in 2 species,OG in all 4 species,True,PGRP
+OG0008830,1,1,1,1,4,4,1,1,False,1,1,1,1,4,4,False,Candidates in all 4 species,OG in all 4 species,False,Phenoloxidase
+OG0008978,1,0,1,1,3,3,1,0,True,1,0,1,1,3,3,True,Candidates in 3 species,OG in 3 species,False,Serine protease - unspecified
+OG0009033,1,1,0,0,2,2,1,0,True,1,1,0,1,3,3,True,Candidates in 2 species,OG in 3 species,True,Apidaecin
+OG0009147,0,0,1,0,1,1,1,0,True,0,1,1,1,3,3,True,Candidates in 1 species,OG in 3 species,True,Phenoloxidase
+OG0009215,0,1,1,1,3,3,1,0,True,0,1,1,1,3,3,True,Candidates in 3 species,OG in 3 species,False,Abaecin
+OG0009254,1,1,1,0,3,3,1,0,True,1,1,1,0,3,3,True,Candidates in 3 species,OG in 3 species,False,Serpin / protease inhibitor
+OG0009487,1,0,1,1,3,3,1,0,True,1,0,1,1,3,3,True,Candidates in 3 species,OG in 3 species,False,Serpin / protease inhibitor
+OG0009592,0,0,0,1,1,1,1,0,True,1,0,0,1,2,2,True,Candidates in 1 species,OG in 2 species,True,Toll receptor family
+OG0009616,1,1,0,0,2,2,1,0,True,1,1,0,0,2,2,True,Candidates in 2 species,OG in 2 species,False,PGRP
+OG0009618,0,0,1,1,2,2,1,0,True,0,0,1,1,2,2,True,Candidates in 2 species,OG in 2 species,False,PGRP
+OG0009623,1,1,0,0,2,2,1,0,True,1,1,0,0,2,2,True,Candidates in 2 species,OG in 2 species,False,Defensin
+OG0009671,0,1,0,1,2,2,1,0,True,0,1,0,1,2,2,True,Candidates in 2 species,OG in 2 species,False,Serpin / protease inhibitor
+OG0009749,0,0,1,1,2,2,1,0,True,0,0,1,1,2,2,True,Candidates in 2 species,OG in 2 species,False,Spaetzle family
+OG0009757,0,0,0,1,1,1,1,0,True,1,0,0,1,2,2,True,Candidates in 1 species,OG in 2 species,True,Serpin / protease inhibitor
+OG0009773,0,0,1,1,2,2,1,0,True,0,0,1,1,2,2,True,Candidates in 2 species,OG in 2 species,False,Spaetzle family
+OG0009828,0,0,0,1,1,1,1,0,True,0,0,1,1,2,2,True,Candidates in 1 species,OG in 2 species,True,Toll receptor family
